@@ -23,13 +23,18 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
+#### Portrait
 <img src="portrait_walkthrough.gif" width=250><br>
 
+#### Landscape
 <img src="landscape_walkthrough.gif" width=500><br>
+
+#### Placeholder in action
+<img src="placeholder_walkthrough.gif" width=500><br>
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+One challenge I had when building the app was properly showcasing/testing if my placeholder graphic worked. Even when slowing down the loading time, the images still load in relativly fast, so it was difficult to see if the code I wrote truly worked. Other than that, there were no other issues when building the application.
 
 ### Open-source libraries used
 
